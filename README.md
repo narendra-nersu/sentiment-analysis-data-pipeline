@@ -1,5 +1,5 @@
 Sentiment Analysis Data Pipeline
-📌 Project Overview
+ Project Overview
 
 This project implements a data processing pipeline to analyze customer review data.
 The focus is on data ingestion, cleaning, transformation, and analysis of unstructured text, following an ETL-style workflow commonly used in Data Engineering.
@@ -9,7 +9,7 @@ The focus is on data ingestion, cleaning, transformation, and analysis of unstru
 Raw customer reviews are often unstructured, noisy, and inconsistent, making them difficult to analyze directly.
 This project processes raw review data and converts it into a structured format suitable for analysis and reporting.
 
-🔄 Data Pipeline Workflow
+ Data Pipeline Workflow
 
 Data Ingestion
 
@@ -60,7 +60,7 @@ sentiment-analysis-data-pipeline/
 ├── README.md                  # Project documentation
 └── .gitignore
 
-📈 Key Outcomes
+ Key Outcomes
 
 Cleaned and transformed raw text reviews into structured datasets
 
@@ -68,7 +68,7 @@ Identified frequently occurring sentiment-related keywords
 
 Generated visual insights to support analytical decision-making
 
-🚀 Future Improvements
+ Future Improvements
 
 Store processed data in Parquet format for better performance
 
